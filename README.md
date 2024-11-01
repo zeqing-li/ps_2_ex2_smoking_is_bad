@@ -16,12 +16,9 @@ the .pre-commit-config.yaml!
 
 To install pre-commit, run:
 
-````bash
-To install pre-commit, run:
-
 ```bash
 pre-commit install
-````
+```
 
 To run the checks manually, run:
 
