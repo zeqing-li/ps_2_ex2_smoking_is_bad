@@ -11,16 +11,17 @@ conda activate smoke
 
 ## Pre-commit
 
-This repository uses pre-commit to run some checks before each commit. 
-!You have to first create the .pre-commit-config.yaml!
+This repository uses pre-commit to run some checks before each commit. !You have to first create
+the .pre-commit-config.yaml!
 
 To install pre-commit, run:
-```bash
+
+````bash
 To install pre-commit, run:
 
 ```bash
 pre-commit install
-```
+````
 
 To run the checks manually, run:
 
