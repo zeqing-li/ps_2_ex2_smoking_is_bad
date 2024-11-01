@@ -2,7 +2,8 @@
 
 # Setup
 
-To install the required packages, run the following command in the terminal:
+To install the required packages, run the following command in the terminal (!You have to first
+create the environment.yml!):
 
 ```bash
 conda env create -f environment.yml
